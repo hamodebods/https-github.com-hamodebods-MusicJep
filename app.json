@@ -21,7 +21,7 @@
         "HNDLR": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
-            "value": "!"
+            "value": ""
         },
         "API_HASH": {
             "description": "هنا ضع الايبي هاش",
