@@ -38,10 +38,6 @@
         "CHANNEL": {
             "description": "هنا ضع معرف قناتك او كروبك بدون @",
             "required": true
-        },
-        "PHOTO_CH": {
-            "description": "ضع هنا رابط الصورة تليكراف",
-            "required": true
         }        
         
     },
