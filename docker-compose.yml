@@ -3,7 +3,7 @@ services:
   worker:
     build: .
     environment:
-      HNDLR: $HNDLR
+      HNDLR: 
       SESSION: $SESSION
       API_ID: $API_ID  # defaults to None
       API_HASH: $API_HASH  # defaults to None
